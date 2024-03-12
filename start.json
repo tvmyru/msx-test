@@ -1,5 +1,5 @@
 {
     "name": "GitHub Pages Example",
     "version": "1.0.1",
-    "parameter": "menu:https://tvmy.github.io/msx/data/menu.json"
+    "parameter": "menu:https://tvmy.github.io/msx-test/data/menu.json"
 }
